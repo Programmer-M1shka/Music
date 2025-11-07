@@ -72,4 +72,18 @@ Manages the playlist and handles all core music operations.
 ---
 
 ## 📸 Example (Console Preview)
+Add Song
 
+Remove Song
+
+Play Current Song
+
+Next Song
+
+Previous Song
+
+View Playlist
+
+Set Volume
+
+Exit
